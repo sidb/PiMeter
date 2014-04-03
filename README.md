@@ -1,6 +1,6 @@
 # Pi Meter
 
-Monitoring an electricity meter with the Raspberry Pi. Based on the circuit published on [a link](http://mistertee-talks-electronics.blogspot.co.uk/2013/03/using-raspberry-pi-as-energy-monitor.html "MisterTee's Blog")
+Monitoring an electricity meter with the Raspberry Pi. Based on the circuit published on [MisterTee's Blog](http://mistertee-talks-electronics.blogspot.co.uk/2013/03/using-raspberry-pi-as-energy-monitor.html)
 
 ### Meter type:
 
