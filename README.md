@@ -1,10 +1,10 @@
 # Pi Meter
 
-Monitoring an electricity meter with the Raspberry Pi.
-
-The electricity meter has an LED which pulses once every time a watt of electricity is used.
+Monitoring an electricity meter with the Raspberry Pi. Based on the circuit published on [a link](http://mistertee-talks-electronics.blogspot.co.uk/2013/03/using-raspberry-pi-as-energy-monitor.html "MisterTee's Blog")
 
 ### Meter type:
+
+The electricity meter has an LED which pulses once every time a watt of electricity is used.
 
 ![Meter image](meter.png)
 
